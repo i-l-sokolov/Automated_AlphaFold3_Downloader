@@ -32,6 +32,7 @@ conda env create -f environment.yml
 ```
 
 **Usage**
+
 Run the script from the command line:
 
 ```bash
